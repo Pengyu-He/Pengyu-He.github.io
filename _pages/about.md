@@ -6,15 +6,14 @@ redirect_from:
   - /about/
   - /about.html
 ---
-**EDUCATION**
-**Northeastern University|** 	**09/2020-07/2024** Qinhuangdao, China
-
+**EDUCATION**<br />
+**Northeastern University|** 	**09/2020-07/2024** <br />Qinhuangdao, China<br />
 B.E. in Comp. Sci. and Tech. Joint Program with the University of Technology Sydney
 
 **SKILLS AND INTERESTS**
 
-**Programming language:** Java, Python, C,C++, JavaScript, SQL
-**Tools:** Unix/Linux, Git,  IntelliJ IDEA, Eclipse, Vim (VS Code/Atom), Docker, QEMU, STM32CubeMX, Keil
+**Programming language:** Java, Python, C,C++, JavaScript, SQL<br />
+**Tools:** Unix/Linux, Git,  IntelliJ IDEA, Eclipse, Vim (VS Code/Atom), Docker, QEMU, STM32CubeMX, Keil<br />
 **Language:** IELTS 7.0
 
 **PROFESSIONAL EXPERIENCE**
