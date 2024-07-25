@@ -1,26 +1,25 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Academic Pages"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 **EDUCATION**
-**Northeastern University|** Qinhuangdao, China	**09/2020-07/2024**
+**Northeastern University|** 	**09/2020-07/2024** Qinhuangdao, China
+
 B.E. in Comp. Sci. and Tech. Joint Program with the University of Technology Sydney
 
 **SKILLS AND INTERESTS**
 
 **Programming language:** Java, Python, C,C++, JavaScript, SQL
-
 **Tools:** Unix/Linux, Git,  IntelliJ IDEA, Eclipse, Vim (VS Code/Atom), Docker, QEMU, STM32CubeMX, Keil
-
 **Language:** IELTS 7.0
 
 **PROFESSIONAL EXPERIENCE**
 
-**Intern|** Beijing Cordinoyi Technology Co., Ltd.| Beijing, China	**06/2021-09/2021**
+Intern|Beijing Cordinoyi Technology Co., Ltd.| Beijing, China	06/2021-09/2021
 
 - During the internship, used Java for development and employed related tools such as Java/IDE/Maven, as well as database DDL/DML, and designed API interfaces, template engines, and coordinated frontend and backend business processes.
 - As team leader, collaborated with team members to complete the Cloud Classroom project. In this project, the tasks included designing course structures during the requirement design phase, coding course management functionalities, conducting code reviews, and testing course functionalities.
